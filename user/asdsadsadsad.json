@@ -1,0 +1,94 @@
+{
+	"user": {
+		"id": "asdsadsadsad",
+		"username": "asdsadsadsad",
+		"avatar": null,
+		"discriminator": 1624,
+		"public_flags": 64,
+		"flags": 64,
+		"purchased_flags": 3,
+		"premium_usage_flags": 5,
+		"banner": null,
+		"banner_color": null,
+		"accent_color": null,
+		"bio": "I'm a **Dispriv** user.",
+		"locale": "en-US",
+		"nsfw_allowed": true,
+		"mfa_enabled": false,
+		"premium_type": 2,
+		"email": "asdasd@gmail.com",
+		"verified": true,
+		"phone": 696969696
+	},
+	"profilecard": {
+		"user": {
+			"id": "asdsadsadsad",
+			"username": "asdsadsadsad",
+			"avatar": null,
+			"discriminator": 1624,
+			"public_flags": 64,
+			"flags": 64,
+			"banner": null,
+			"banner_color": null,
+			"accent_color": null,
+			"bio": "I'm a **Dispriv** user."
+		},
+		"connected_accounts": [],
+		"premium_since": null,
+		"premium_guild_since": null,
+		"mutual_guilds": []
+	},
+	"friends": [
+		{
+			"id": "asdsadsadsad|Dispriv",
+			"type": 1,
+			"nickname": null,
+			"user": {
+				"id": "Dispriv",
+				"username": "Dispriv",
+				"avatar": null,
+				"discriminator": "0000",
+				"public_flags": -7
+			}
+		}
+	],
+	"settings": {
+		"locale": "en-US",
+		"show_current_game": true,
+		"restricted_guilds": [],
+		"default_guilds_restricted": false,
+		"inline_attachment_media": true,
+		"inline_embed_media": true,
+		"gif_auto_play": true,
+		"render_embeds": true,
+		"render_reactions": true,
+		"animate_emoji": true,
+		"enable_tts_command": true,
+		"message_display_compact": false,
+		"convert_emoticons": false,
+		"explicit_content_filter": 1,
+		"disable_games_tab": false,
+		"theme": "dark",
+		"developer_mode": true,
+		"guild_positions": [
+			"50"
+		],
+		"detect_platform_accounts": true,
+		"status": "online",
+		"afk_timeout": 600,
+		"timezone_offset": -120,
+		"stream_notifications_enabled": true,
+		"allow_accessibility_detection": false,
+		"contact_sync_enabled": false,
+		"native_phone_integration_enabled": true,
+		"animate_stickers": 0,
+		"friend_discovery_flags": 0,
+		"view_nsfw_guilds": false,
+		"passwordless": true,
+		"friend_source_flags": {
+			"all": true
+		},
+		"guild_folders": [],
+		"custom_status": null
+	}
+}
